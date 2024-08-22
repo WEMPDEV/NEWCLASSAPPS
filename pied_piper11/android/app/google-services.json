@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1012639145282",
+    "project_id": "loginuiwithflutterclass",
+    "storage_bucket": "loginuiwithflutterclass.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012639145282:android:8977dc00fffe6a08d97cdb",
+        "android_client_info": {
+          "package_name": "com.example.pied_piper11"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQm8Zk7rqtfVjWHPRdz0fRdNTuk-PoNxI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
